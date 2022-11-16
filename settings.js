@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Swag Animals NFt Mint", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022", // Today Date
+    date: "16.11.2022", // Today Date
     socialMedia: {
         discord: "https://discord.gg/Fu52QJZUHY", // Discord link
         twitter: "https://discord.gg/Fu52QJZUHY", // Twitter link
